@@ -1,6 +1,6 @@
 {
   "name": "postcss-transform",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "CSS converts other units",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/ZhengscDev/postcss-transform#readme",
   "dependencies": {
-    "postcss": "^8.2.10"
+    "postcss": "^7.0.27"
   }
 }

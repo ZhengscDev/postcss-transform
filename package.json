@@ -1,6 +1,6 @@
 {
   "name": "postcss-transform",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "CSS converts other units",
   "main": "index.js",
   "scripts": {

@@ -11,7 +11,12 @@
     "url": "git+https://github.com/ZhengscDev/postcss-transform.git"
   },
   "keywords": [
-    "postcss"
+    "css",
+    "rem",
+    "pixel",
+    "px",
+    "postcss",
+    "postcss-plugin"
   ],
   "author": "react-dev",
   "license": "MIT",
@@ -19,11 +24,7 @@
     "url": "https://github.com/ZhengscDev/postcss-transform/issues"
   },
   "homepage": "https://github.com/ZhengscDev/postcss-transform#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "postcss": "^8.2.10"
-  },
-  "peerDependencies": {
+  "dependencies": {
     "postcss": "^8.2.10"
   }
 }

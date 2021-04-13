@@ -1,0 +1,29 @@
+{
+  "name": "postcss-transform",
+  "version": "1.0.0",
+  "description": "CSS converts other units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhengscDev/postcss-transform.git"
+  },
+  "keywords": [
+    "postcss"
+  ],
+  "author": "react-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhengscDev/postcss-transform/issues"
+  },
+  "homepage": "https://github.com/ZhengscDev/postcss-transform#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "postcss": "^8.2.10"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.10"
+  }
+}

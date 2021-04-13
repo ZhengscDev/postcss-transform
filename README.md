@@ -1,2 +1,2 @@
 # postcss-transform
-css transform other unit（px/rem/em）
+CSS converts other units（px/rem/em）
